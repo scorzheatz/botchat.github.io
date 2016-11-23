@@ -1,2 +1,0 @@
-# botchat.github.io
-botchat
